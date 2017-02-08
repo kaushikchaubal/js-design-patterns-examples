@@ -1,5 +1,5 @@
 # JS Design Pattern Examples
-d
+
 ### Covers multiple design patterns including
 1. All global
 2. Use of namespace
